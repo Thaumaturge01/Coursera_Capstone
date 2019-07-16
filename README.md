@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Corsera folder for final projects
+Coursera folder for final projects
